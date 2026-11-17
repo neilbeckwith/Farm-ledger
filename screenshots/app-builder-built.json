@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Acre Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 2318,
+      "bodyTextHash": "2245ddc68d8bb81c2c31db73dac692040800f602d61214fb4e52dd553c6e8394",
+      "bodyTextPrefix": "BIOGEOCHEMICAL STAND Acre Ledger Ottawa Valley Reset Spring whea",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Acre Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 2318,
+      "bodyTextHash": "760e8b51e864d79ea17b92023d7195be32b8aa4c8fa28c168034e57a077f7181",
+      "bodyTextPrefix": "BIOGEOCHEMICAL STAND Acre Ledger Ottawa Valley Reset Spring whea",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Acre Ledger">
+  <rect width="32" height="32" rx="6" fill="#141710"/>
+  <rect x="0" y="23" width="32" height="9" fill="#1c2218"/>
+  <rect x="0" y="23" width="32" height="1.6" fill="#8fad55"/>
+  <rect x="15.15" y="11.2" width="1.7" height="12.2" rx="0.85" fill="#e0a045"/>
+  <ellipse cx="16" cy="7.1" rx="1.75" ry="2.55" fill="#efe8d6"/>
+  <ellipse cx="12.55" cy="9.15" rx="1.55" ry="2.25" transform="rotate(-36 12.55 9.15)" fill="#e0a045"/>
+  <ellipse cx="19.45" cy="9.15" rx="1.55" ry="2.25" transform="rotate(36 19.45 9.15)" fill="#e0a045"/>
+  <ellipse cx="12.15" cy="12.55" rx="1.5" ry="2.15" transform="rotate(-40 12.15 12.55)" fill="#efe8d6"/>
+  <ellipse cx="19.85" cy="12.55" rx="1.5" ry="2.15" transform="rotate(40 19.85 12.55)" fill="#efe8d6"/>
+  <ellipse cx="12.7" cy="15.85" rx="1.4" ry="1.95" transform="rotate(-32 12.7 15.85)" fill="#e0a045"/>
+  <ellipse cx="19.3" cy="15.85" rx="1.4" ry="1.95" transform="rotate(32 19.3 15.85)" fill="#e0a045"/>
+</svg>
